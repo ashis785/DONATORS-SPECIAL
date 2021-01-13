@@ -54,7 +54,7 @@
 
 ----------------------------update system-------------------------
 
-【version】1.0【version】
+【version】2.5【version】
 
 【notes】Autocheck Update!!
 
